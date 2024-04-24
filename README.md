@@ -1,5 +1,4 @@
 # Corner-and-Automatic-Threshold-Detection
-*Project Title: Scoring Function and Automatic Threshold Detection Analysis*
 
 *Description:*
 
@@ -34,3 +33,4 @@ The main aim of this assignment is to analyze the interaction between various sc
 - Experiment with different parameters and configurations for corner detection and thresholding to observe their effects on the results.
 - Encourage collaboration and contributions from others interested in image processing and computer vision.
 - Explore potential applications and scenarios where these corner detection and automatic thresholding techniques can be applied, such as object recognition, feature extraction, or image segmentation.
+- For a more insightful look, please check out the project pdf to learn more about the specifics of each function.
